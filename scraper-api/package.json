@@ -1,0 +1,24 @@
+{
+  "name": "scraper-api",
+  "version": "1.0.0",
+  "description": "Scraper api",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dima11235813/scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "node"
+  ],
+  "author": "Dmitri Larionov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dima11235813/scraper/issues"
+  },
+  "homepage": "https://github.com/Dima11235813/scraper#readme"
+}
